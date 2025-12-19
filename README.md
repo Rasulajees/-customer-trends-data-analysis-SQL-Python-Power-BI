@@ -75,7 +75,7 @@ If you enjoyed this project and want to keep learning and growing as a data anal
 
 
 
-📺 Protfolio: [Rasul khan](https://rasulajees.github.io/Rasulkhan.github.io/)
+📺 Protfolio: [RASUL KHAN A](https://rasulajees.github.io/Rasulkhan.github.io/)
 - Quick SQL tips, data memes, and behind-the-scenes content
 
 💼 LinkedIn: [RASUL KHAN A](https://www.linkedin.com/in/rasul-khan-a-101624296)
