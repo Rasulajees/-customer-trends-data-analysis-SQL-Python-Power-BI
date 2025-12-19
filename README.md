@@ -17,7 +17,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
-![Project Workflow]()
+![Project Workflow](https://github.com/Rasulajees/-customer-trends-data-analysis-SQL-Python-Power-BI/blob/main/shipping.png)
 ## 🛠️ How to Use This Project
 
 1. **Clone the repository**
